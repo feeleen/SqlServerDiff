@@ -1,3 +1,3 @@
 # SqlServerDiff
 
-https://github.com/feeleen/SqlServerDiff
+https://github.com/feeleen/SqlObjectsDiff
